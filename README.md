@@ -12,7 +12,7 @@ Order_Date: Date of order placement
 
 Ship_Date: Date of shipment
 
-Ship_Mode: Mode of shipment
+Ship_Mode: Mode of shipment 
 
 Customer_ID: Unique identifier for customers
 
