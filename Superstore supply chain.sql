@@ -156,7 +156,7 @@ WHERE Returns = 'Yes'
 GROUP BY Product_Name
 ORDER BY Return_Count DESC;
 
--- Based on historical sales data, what can be predicted for future sales trends in the next quarter or year?
+-- Question 15: Based on historical sales data, what can be predicted for future sales trends in the next quarter or year?
 
 SELECT 
     YEAR(Order_Date) AS Year, 
